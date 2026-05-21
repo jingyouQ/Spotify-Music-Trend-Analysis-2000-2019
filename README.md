@@ -1,7 +1,7 @@
-# Spotify Music Trend Analysis (1998–2019)
+# Spotify Music Trend Analysis (2000–2019)
 
 ## Overview
-Analysis of Spotify music trends from 1998 to 2019,
+Analysis of Spotify music trends from 2000 to 2019,
 focusing on popular artists, genre trends, and music style changes.
 
 ## Key Findings
